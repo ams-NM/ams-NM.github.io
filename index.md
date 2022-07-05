@@ -1,2 +1,2 @@
 # My new GitHub Pages
-<a href="test.html">Test</a>
+<a href="https://ams-NM.github.io/test.html">Test</a>
