@@ -1,1 +1,0 @@
-- [ ] [[Replace Cal Due Sensor]] WO: `?`, xxxsensor [[@RW16/MID/34]] (Due SN: `?` ; Spare SN: `?`) -Date
