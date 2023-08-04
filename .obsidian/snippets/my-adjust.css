@@ -1,0 +1,324 @@
+
+/* Font family*/
+:root {
+    --default-font: American Typewriter;
+}
+
+
+/* Remove underline */
+.markdown-preview-view .internal-link.is-unresolved>*,
+*>.internal-link.is-unresolved {
+  text-decoration: none;
+  color: #ffa6a6 !important;
+}
+
+/*Insert [[ ]] around links to make it look like Roam Research*/
+.markdown-preview-view .internal-link::before {
+	content: "[[";
+	/*color: var(--brackets-color);*/
+	color: #a7b6c2;
+}
+.markdown-preview-view .internal-link::after {
+	content: "]]";
+	/*color: var(--brackets-color);*/
+	color: #a7b6c2;
+}
+
+/*Insert [[ ]] around links to make it look like Roam Research*/
+.is-live-preview .1cm-hmd-internal-link::before {
+	content: "[[";
+	/*color: var(--brackets-color);*/
+	color: #a7b6c2;
+}
+.is-live-preview .cm-hmd-internal-link {
+	text-decoration: none;
+}
+.is-live-preview .1cm-hmd-internal-link::after {
+	content: "]]";
+	/*color: var(--brackets-color);*/
+	color: #a7b6c2;
+}
+
+/* Weather Icons on Daily Notes float left*/
+.markdown-preview-view .image-embed[src$="left"] {
+  position: relative;
+  float: left;
+  margin-top: 0rem;
+  margin-right: 0rem;
+  margin-bottom: 0rem;
+  border: none;
+  padding: 0 0 0 0;
+}
+
+.markdown-preview-view .image-embed[src$="left"]::after {
+  content: none; /*attr(alt);*/
+  padding: 0 0 0 0;
+  margin-top: 0;
+}
+
+/* Remove Query string in Pre-view */
+.markdown-preview-view .internal-query .internal-query-header{
+	display:none;
+}
+
+/* block of backlinks in document */
+/* Add horizontal line above */
+div.nav-header {
+    margin-top: 50px;
+    border-top: 2px dashed grey;
+}
+
+/* Reduce header margins */
+.cm-s-obsidian .HyperMD-header {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+}
+/* not working anymore [[2023-08-02 Wed]]
+.markdown-preview-view h3, h4, h5, h6 {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 0px !important;
+} 
+*/
+
+/* single line code blocks */
+/* in reading view */
+code {
+	background-color: #bfdef5 !important;
+}
+/* in editor view */
+span.cm-inline-code {
+  border: 2px solid #red !important;
+	background-color: #bfdef5 !important;
+}
+
+/* Code blocks */
+div.HyperMD-codeblock {
+  background-color: #d2d3d4 !important;
+}
+
+/* Checkbox */
+
+:is(.markdown-preview-view,.markdown-rendered)  ul>li.task-list-item.is-checked,
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] {
+  text-decoration: line-through 1% !important;
+}
+
+input[type=checkbox] {
+  appearance: none;
+  box-shadow: 0 0 0 1px gray;
+  border: 1px solid black !important;
+}
+/*
+input[type=checkbox]:checked {
+  appearance: none;
+  text-decoration:line-through !important;
+  text-decoration-color: green !important;
+}
+*/
+
+/* Active lines -backgound color*/
+.theme-dark {
+  --activeline-background: #d5dbd9;
+}
+.theme-light {
+  --activeline-background: #d5dbd9;
+}
+
+
+
+/* Note background */
+/* Remove default Blue Topaz background image*/
+/* Ref: https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/issues/80 */
+.workspace-split.mod-root .workspace-leaf:nth-child(n) .workspace-leaf-content:not([data-type="outline"])::before {
+  display: none;
+  position: unset;
+}
+
+
+/*.markdown-source-view, .CodeMirror-foldgutter, .cm-gutters { */
+	/*  https://telegra.ph/Paper-backgound-01-17 */
+	/* background-image: url(https://telegra.ph/file/c224c6cf6c48eeae65ace.jpg); */
+	/* background-image: url(https://i.ibb.co/tp9yp5M/background-paper.jpg); */
+	/*background-image: url(https://i.ibb.co/Vx5qcrQ/nordwood-themes-R53t-Tg6-J4c-unsplash.jpg);*/
+	/* 圖床For use in ZH: https://imgurl.org/ */
+/*
+	background-image: url(https://ftp.bmp.ovh/imgs/2021/04/001b3968e1865a76.jpg);
+	background-repeat: repeat;
+*/
+	/* background-image: url(https://i.imgur.com/fdMXMpm.jpg); */
+	/* Obsidian does not support referring to local file yet.*/
+	/* background-image: url(background-paper.jpg); */
+/*}*/
+
+/* .markdown-preview-view {
+	/* 圖床For use in ZH: https://imgurl.org/ */
+	/*background-image: url(https://ftp.bmp.ovh/imgs/2021/07/7563e50523987d1c.jpg);
+	background-repeat: repeat;*/
+	/* background-color: #faf9f7;  */
+/* }  */
+
+/* Internal link in source & preview */
+/* Remove underline */
+span.cm-hmd-internal-link {
+	text-decoration: none !important;
+	color: #3e7b9c !important;;
+}
+.internal-link {
+    color: #057aa1 !important;
+}
+
+/* Override default 'strong' font */
+a,
+.markdown-preview-view .internal-link {
+  font-family: var(--font-family) !important;
+}
+
+/* Remove Query string in Pre-view */
+.markdown-preview-view .internal-query.is-embed .internal-query-header{
+	display:none;
+}
+
+/*--- Calendar plugin ---*/
+#calendar-container
+table.calendar {
+  background-color: #E1E6E4;
+}
+#calendar-container .today {
+  color: red;
+}
+#calendar-container .today .dot {
+  fill: red;
+}
+#calendar-container .reset-button,
+#calendar-container .reset-button:hover {
+	color: red;
+}
+#calendar-container .reset-button:hover {
+	background-color: #e3e3e3;
+}
+
+/* Theme Blue Topaz make Friday red */
+/* Change it back to black */
+#calendar-container table.calendar th:nth-last-child(2) {
+  color: black !important;
+}
+/* Make all td the same color first */
+#calendar-container table.calendar td:nth-last-child(2),
+#calendar-container table.calendar td {
+  background-color: #f0f5f2 !important;
+}
+
+/* Modify SAT & SUN text color and background */
+#calendar-container table.calendar td:nth-last-child(1) div.day,
+#calendar-container table.calendar td:nth-child(2) div.day {
+  color: #c2281f !important;
+}
+#calendar-container table.calendar th:nth-child(2),
+#calendar-container table.calendar th:nth-last-child(1),
+#calendar-container table.calendar td:nth-child(2),
+#calendar-container table.calendar td:nth-last-child(1) {
+  color: #c2281f !important;
+  background-color: #bec4c2 !important;
+}
+/* Pane background */
+div.view-content {
+  background-color: #E1E6E4 !important;
+}
+
+/* #calendar-container table.calendar col.weekend {
+  background-color: #9ea3a1 !important;
+} */
+/*^ --- Calendar plugin --- ^*/
+
+
+
+/* Reduce padding to backlink in document */
+/* Issue: Space too big between content and backlink */
+.cm-content {
+    padding-bottom: 0 !important;
+}
+/* Remove underline of internal link on Live Preview unfocused.*/
+.cm-hmd-internal-link span.cm-underline {
+    text-decoration: none !important;
+    color: #3e7b9c;
+}
+
+/* Weather Icons on Daily Notes float left*/
+.image-embed[src$="left"] {
+  position: relative;
+  float: left;
+  margin-top: 0rem;
+  margin-right: 0rem;
+  margin-bottom: 0rem;
+  border: none;
+  padding: 0 0 0 0;
+
+}
+.image-embed[src$="left"]::after {
+  content: none !important; /*hide attr(alt);*/
+  padding: 0 0 0 0;
+  margin-top: 0;
+
+}
+
+/* frontmatter font size */
+.cm-s-obsidian .cm-hmd-frontmatter {
+  font-size: 14px;
+  /* font-weight: bold; */
+  font-family: var(--default-font);
+  /* padding-top: 100px !important; */
+
+}
+/* div.cm-line .cm-hmd-frontmatter{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+} */
+
+
+/* Note background */
+/* .markdown-source-view {
+    background-color: #cfd4d2;
+    color: black;
+} */
+
+
+
+/*================== TODO ================================*/
+
+/* Indentation of List items */
+/*
+ul, ol {
+    position: relative;
+    left: 1.5em;
+    margin-left: 0;
+    padding-left: 0em;
+    background: gray;
+}
+ul>li:not(.task-list-item) {
+    position: relative !important;
+    left: 2.0 !important;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: #cce5ff;
+    word-wrap: none;
+}
+
+ul>li.task-list-item {
+    position: relative !important;
+
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background: #cce5ff;
+    word-wrap: none;
+}
+*/
