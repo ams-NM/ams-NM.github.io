@@ -1,7 +1,7 @@
 
 ## Digital Garden - Plugin
 ### <span style='color: red'>Issues</span>
-- Failed to deploy results of `dataviewjs` in [[Task Tracking]] and notes under `Weekly/`.
+- Failed to deploy results of `dataviewjs` in [[Task-Tracking]] and notes under `Weekly/`.
 ### Files and folders used for this plugin only
 - src/
 - netlify.toml

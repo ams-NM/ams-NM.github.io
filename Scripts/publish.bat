@@ -1,1 +1,1 @@
-start "" "obsidian://advanced-uri?vault=ams-work&Task Tracking.md&commandid=export-html-file-default"
+start "" "obsidian://advanced-uri?vault=ams-work&filepath=Task-Tracking.md"
