@@ -1,10 +1,10 @@
 {
-  "inlineCSS": false,
-  "inlineJS": false,
-  "inlineImages": false,
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
   "includePluginCSS": "dataview\ncompleted-task-display",
   "includeSvelteCSS": true,
-  "makeNamesWebStyle": true,
+  "makeNamesWebStyle": false,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
   "beautifyHTML": false,
@@ -16,9 +16,9 @@
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
   "includeOutline": false,
-  "includeGraphView": true,
-  "includeFileTree": true,
-  "exportPreset": "website",
+  "includeGraphView": false,
+  "includeFileTree": false,
+  "exportPreset": "documents",
   "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
@@ -27,5 +27,5 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": "D:\\github\\task-tracking.html"
+  "lastExportPath": "D:\\github\\ams-work\\docs\\Task Tracking.html"
 }
