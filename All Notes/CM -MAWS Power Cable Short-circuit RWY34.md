@@ -1,26 +1,25 @@
 ---
 system: "[[Sys.AWOS]]"
-work-order:  
+work-order:  620044
 type: CM
-report-date: 
-complete-date: 
+report-date: "[[2023-08-15 Tue]]"
+complete-date: "[[2023-08-15 Tue]]"
 tags:
-  - "[[Sys.AWOS#LT31]]"
+  - "[[Sys.AWOS#Wind]]"
   - 
-next-step: 
+next-step: N/A
 ---
 # Problem 🐞
-## Preparation
-### When
-- [ ] NOTAM ?
-### How
-- [ ] Plan in detail
-### What
-- [ ] Stuffs needed
-### Who
+- The circuit breaker in GP station tripped.
+- Big 4 found that the neutual wire from AWOS at WRY34 was short-circuited.
+- Thunderstorm was hoisted when we were about to go on site. Waited for about half an hour.
 
-## Improvements
-- [ ] Similar issues for other parts of the system?
+- It took quit a while to locate the problem.
+- It was the power connection of MAWS from term-box to the equipment cabinet.
+- Removed the cable together with the connector, went out to hardware stores and looked for the same item with no luck.
+- Disassembled the connector and found that the problem was in the cable, not the connector.
+- Removed the cable from the connector, and connected a new stretch of power cable to it.
+- Restored this power cable and wind data resumed normally.
 
 ## Log
 
