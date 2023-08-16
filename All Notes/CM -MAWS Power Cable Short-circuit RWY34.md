@@ -11,7 +11,7 @@ next-step: N/A
 ---
 # Problem 🐞
 - The circuit breaker in GP station tripped.
-- Big 4 found that the neutual wire from AWOS at WRY34 was short-circuited.
+- Big 4 found that the neutral wire from AWOS at WRY34 was short-circuited.
 - Thunderstorm was hoisted when we were about to go on site. Waited for about half an hour.
 
 - It took quit a while to locate the problem.
