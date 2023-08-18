@@ -21,5 +21,4 @@ next-step: N/A
 - Removed the cable from the connector, and connected a new stretch of power cable to it.
 - Restored this power cable and wind data resumed normally.
 
-## Log
-
+- [[MAWS]]
