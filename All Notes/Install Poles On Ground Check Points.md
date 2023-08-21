@@ -1,7 +1,7 @@
 
 ## Log
-### [[2023-08-24 Thu]] Inspection
-- 
+### [[2023-08-24 Thu]] On-site Survey
+- Go on site and show [[Focus]] the points.
 
 ## How
 - Use short poles(The ones are used to seperate safty and non-safty area) instead of the concrete plates. 
