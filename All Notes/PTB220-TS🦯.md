@@ -1,11 +1,11 @@
 ---
 name: PTB220-TS 
-due-date:
+due-date: "[[2024-08-11 Sun]]"
 cal-date:
-out-date: "[[2023-07-05 Wed]]"
+out-date: 
 wo: 
 sn: D0140003
-status: out
+status: in-use
 location: NM-room
 remark: Test Equipment
 tags: calibration
