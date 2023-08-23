@@ -6,7 +6,7 @@ out-date:
 wo:
 sn:
 status: out/in-use/spare/pending-out
-location: RWY16/RWY-MID/RWY34
+location: RWY16/RWY-MID/RWY34/NM-room/Observer-room
 remark: 
 tags: calibration
 ---
