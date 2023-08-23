@@ -5,6 +5,8 @@ cal-date:
 out-date:
 wo:
 sn:
+status: out/in-use/spare/pending-out
+location: RWY16/RWY-MID/RWY34
 remark: 
 tags: calibration
 ---
