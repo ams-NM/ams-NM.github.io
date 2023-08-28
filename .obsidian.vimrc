@@ -21,3 +21,7 @@ nmap gt :tabnext
 " exmap tabprev obcommand cycle-through-panes:cycle-through-panes-reverse
 exmap tabprev obcommand workspace:previous-tab
 nmap gT :tabprev
+
+nmap <A-j> ddp
+nmap <A-k> ddkkp
+
