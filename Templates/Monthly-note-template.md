@@ -9,7 +9,7 @@
 ## Monthly Routines
 - [ ] Add from `Monthly Routine` template
 
-## x-Monthly Routines
+## ❌-Monthly Routines
 - [ ] Add 3-m, 6-m, yearly PMs etc.
 - [ ] Add other >Monthly PMs if necessary.
 
