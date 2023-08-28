@@ -7,3 +7,4 @@
 - [ ] [[PM.AWOS.yearly🌤️#Battery Condition Check]] -
 - [ ] [[PM.AWOS.yearly🌤️#Temperature Humidity]] -
 - [ ] [[PM.AWOS.yearly🌤️#Pressure]] -
+- [ ] [[PM.AWOS.yearly🌤️]] ==Form== -
