@@ -12,7 +12,7 @@
   "foldHeading": true,
   "readableLineLength": false,
   "vimMode": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
   "promptDelete": false

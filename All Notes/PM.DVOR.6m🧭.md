@@ -14,7 +14,7 @@ tags:
 - [ ] NOTAM required
 - [ ] Duration: 2 hours
 ### How
-#### Apply NOTAM -3 hours
+#### Apply NOTAM -2 hours
 ####  Old records printout
 ####  DME R.C. on Ant. & Diagnostics printout Tx-A
 ####  DME R.C. on Ant. & Diagnostics printout Tx-B
