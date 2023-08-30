@@ -17,8 +17,7 @@ dg-publish: true
 	 - The ones bought were unable to unplug.
 	 - Buy 2 pcs of a new model
 	 - ref: [[2023-04#^9becdd]]
-## Calibration Items
-
+## [[Calibration Records]]
 
 ## Misc
 - [x] [[ATSEP Training Schedule - 2022]]

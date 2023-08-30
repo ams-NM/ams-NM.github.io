@@ -9,6 +9,8 @@ dg-publish: true
 - [[Compensation Leave Records]]
 - [[✈️MIA Systems]]
 - [[All CWO]]
+- [[IMO Records]]
+- [[PR Records]]
 - [[Calibration Records]]
 
 - [[Routines]]

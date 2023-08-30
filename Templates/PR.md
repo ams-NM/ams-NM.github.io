@@ -3,4 +3,4 @@
 	- PR: 
 	- Work Order: 
 	- Received Date:
-	- Item1
+	- Item detail description, link, etc.

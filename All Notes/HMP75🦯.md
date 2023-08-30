@@ -1,11 +1,11 @@
 ---
 name:  HMP75
-due-date: "[[2023-09-01 Fri]]"
+due-date: 
 cal-date:
-out-date:
+out-date: "[[2023-08-30 Wed]]"
 wo: 594555
 sn: K2540001
-status: in-use
+status: out
 location: NM-room
 remark: Test Equipment
 tags: calibration
