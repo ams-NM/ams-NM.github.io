@@ -41,5 +41,10 @@ WHERE !completed AND contains(tags, "#PR-Item-pending")
 ```dataview
 TASK
 FROM "Monthly" or "All Notes"
+WHERE !completed AND contains(tags, "#IMO-Item-pending")
+```
+```dataview
+TASK
+FROM "Monthly" or "All Notes"
 WHERE !completed AND contains(tags, "#IMO-Pending")
 ```
