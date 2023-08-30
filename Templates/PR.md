@@ -1,4 +1,4 @@
-- [ ] Description #PR-Item-pending #PR 
+- [ ] Description #PR #PR-Item-pending 
 	- Issued Date: 
 	- PR: 
 	- Work Order: 

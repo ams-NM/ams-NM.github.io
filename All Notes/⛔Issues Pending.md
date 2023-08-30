@@ -29,14 +29,14 @@ TASK
 WHERE !completed AND contains(tags, "#RS-todo")
 ```
 
-## PR items
+## PR items -[[PR Records]]
 ```dataview
 TASK
 FROM "Monthly" or "All Notes"
 WHERE !completed AND contains(tags, "#PR-Item-pending")
 ```
 
-## IMO items
+## IMO items -[[IMO Records]]
 ```dataview
 TASK
 FROM "Monthly" or "All Notes"
