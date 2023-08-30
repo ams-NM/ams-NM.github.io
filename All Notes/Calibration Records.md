@@ -20,7 +20,7 @@ SORT due-date
 ```
 ## Out
 ```dataview
-TABLE out-date, sn, remark
+TABLE out-date, sn, wo, remark
 FROM #calibration AND "All Notes"
 WHERE status = "out"
 ```
