@@ -1,15 +1,14 @@
 ---
 dg-publish: true
-system: "[[Sys.AWOS]]"
 wo:  601565
 status: pending
 type: CM
 report-date: [[2022-10-18 Tue]]
 complete-date: 
 tags:
-  - "[[Sys.AWOS#LT31]]"
+  - "[[Sys.ILS]]"
 fileClass: [cm]
-next-step: 
+next-step: "Waiting for Health Check"
 ---
 
 # Problem 🐞

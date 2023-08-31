@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-system: "[[Sys.AWOS]]"
-work-order:  594772
+wo:  594772
 type: CM
+status: done
 report-date: "[[2022-06-15 Wed]]"
-complete-date: 
+complete-date: "[[2022-06-28 Tue]]"
 tags:
-  - "[[Sys.AWOS#Humidity Temperature-HMP]]"
+  - "[[Sys.AWOS]]"
 ---
 
 # Problem 🐞
