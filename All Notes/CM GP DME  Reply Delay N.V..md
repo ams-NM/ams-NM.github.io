@@ -2,6 +2,7 @@
 dg-publish: true
 system: "[[Sys.AWOS]]"
 work-order:  
+status: 
 type: CM
 report-date: 
 complete-date: 

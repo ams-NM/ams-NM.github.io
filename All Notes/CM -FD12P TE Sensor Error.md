@@ -3,6 +3,7 @@ system: "[[Sys.AWOS]]"
 work-order:  616717
 type: CM
 report-date: [[2023-07-04 Tue]]
+status: done
 complete-date: [[2023-07-11 Tue]]
 tags:
   - "[[Sys.AWOS#FD12P]]"

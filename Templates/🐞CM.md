@@ -2,6 +2,7 @@
 system: "[[Sys.AWOS]]"
 work-order:  
 type: CM
+status: ongoing/pending/done
 report-date: 
 complete-date: 
 tags:

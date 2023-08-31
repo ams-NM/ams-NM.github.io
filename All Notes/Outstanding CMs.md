@@ -6,4 +6,11 @@
 - [[DVOR DME Mon1 Peak Power Too High]]
 - [[ATIS Standby Not Sync]]
 - [[ZH-CLR Hotline Cutoff Intermittently]]
-- 
+- [[Rain Gauge Filter Netting Broken RWY34]]
+- [[FD12P FDE12 Failure]]
+
+```dataview
+TABLE work-order, status, report-date, next-step
+FROM  "All Notes"
+WHERE type = "CM" AND status != "done"
+```

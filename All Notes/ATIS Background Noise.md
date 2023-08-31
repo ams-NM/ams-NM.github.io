@@ -3,6 +3,7 @@ dg-publish: true
 system: "[[Sys.AWOS]]"
 work-order:  592741
 type: CM
+status: done
 report-date: "[[2022-05-11 Wed]]"
 complete-date:  "[[2022-05-12 Thu]]"
 tags: 
