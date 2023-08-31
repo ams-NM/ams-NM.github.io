@@ -1,13 +1,13 @@
 ---
-wo: 
+wo: 616717
 type: CM
-status: ongoing/pending/done
-report-date: 
+status: ongoing
+report-date: [[2023-07-04 Tue]]
 complete-date: 
 tags:
-  - "[[Sys.AWOS#LT31]]"
+  - "[[Sys.AWOS]]"
   - 
-next-step: 
+next-step: "Done. Waiting for spare FDE12"
 ---
 # Problem 🐞
 ## Preparation

@@ -7,7 +7,7 @@ complete-date:
 tags:
   - "[[Sys.VCS]]"
   - 
-next-step: 
+next-step: "Looking for substitution of the MUX"
 ---
 # Problem 🐞
 - Optimux OP-34 E1 to fiber MUX was obsolete.

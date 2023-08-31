@@ -1,15 +1,17 @@
 ---
-wo: 
+wo: 617794
 type: CM
-status: ongoing/pending/done
-report-date: 
+status: pending
+report-date: "[[2023-07-11 Tue]]"
 complete-date: 
 tags:
-  - "[[Sys.AWOS#LT31]]"
+  - "[[Sys.VCS]]"
   - 
-next-step: 
+next-step: "Buy new spare for replacement"
 ---
 # Problem 🐞
+- [[HK-CLR]] has the same issue as well.
+- 
 ## Preparation
 ### When
 - [ ] NOTAM ?

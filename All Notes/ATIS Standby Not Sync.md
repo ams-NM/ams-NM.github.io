@@ -1,15 +1,16 @@
 ---
-wo: 
+wo: 614939
 type: CM
-status: ongoing/pending/done
-report-date: 
+status: ongoing
+report-date: "[[2023-06-07 Wed]]"
 complete-date: 
 tags:
-  - "[[Sys.AWOS#LT31]]"
-  - 
-next-step: 
+  - "[[Sys.AWOS]]"
+  - ATIS
+next-step: "Software Issue. Consult Vaisala"
 ---
 # Problem 🐞
+- ATIS software stops by it self intermittently.
 ## Preparation
 ### When
 - [ ] NOTAM ?
