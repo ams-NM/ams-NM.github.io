@@ -6,10 +6,8 @@ report-date: "[[2023-08-15 Tue]]"
 complete-date: "[[2023-08-15 Tue]]"
 tags:
   - "[[Sys.AWOS]]"
-  - 
 next-step: "Done. Waiting for spare power connector"
 ---
-## TODO
 
 # Problem 🐞
 - The circuit breaker in GP station tripped.
