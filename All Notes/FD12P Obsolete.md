@@ -1,15 +1,17 @@
 ---
-wo:  
+system: "[[Sys.AWOS]]"
+wo:  603742
 type: CM
-status: ongoing/pending/done
-report-date: 
+status: pending
+report-date: "[[2022-12-06 Tue]]"
 complete-date: 
 tags:
-  - "[[Sys.AWOS#LT31]]"
+  - "[[Sys.AWOS#FD12P]]"
   - 
-next-step: 
+next-step: "Waiting for CAM's action"
 ---
 # Problem 🐞
+- This model was obsolete, need to replace with a newer model.
 ## Preparation
 ### When
 - [ ] NOTAM ?

@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 system: "[[Sys.ILS]]"
-work-order:  598333
+wo:  598333
 type: CM
 status: pending
 report-date: "[[2022-08-23 Tue]]"

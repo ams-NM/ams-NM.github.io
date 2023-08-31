@@ -1,14 +1,15 @@
 ---
 dg-publish: true
 system: "[[Sys.AWOS]]"
-work-order:  
-status: 
+wo:  601565
+status: pending
 type: CM
-report-date: 
+report-date: [[2022-10-18 Tue]]
 complete-date: 
 tags:
   - "[[Sys.AWOS#LT31]]"
 fileClass: [cm]
+next-step: 
 ---
 
 # Problem 🐞

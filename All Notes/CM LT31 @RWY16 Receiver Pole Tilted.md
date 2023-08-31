@@ -3,14 +3,13 @@ dg-publish: true
 tags:
   - "[[Sys.AWOS#LT31]]"
 fileClass: [cm]
-Plan Dates: 
-Systems: [AWOS]
-Start Date: "[[2022-08-30 Tue]]"
-Status: Pending
-Complete Date: 
+type: CM
+report-date: "[[2022-08-30 Tue]]"
+complete-date: 
+status: pending
 wo: 598573
+next-step: "Waiting for CAM's action for replacement"
 ---
-
 # Problem 🐞
 - Observer reported invalid reading on VIS @RWY16.
 - "MOR Underrange" warning  activated.
