@@ -1,11 +1,11 @@
 ---
 dg-publish: true
-system: "[[Sys.VCS]]"
-work-order:  599830
+wo:  599830
 type: CM
+status: done
 report-date: "[[2022-09-15 Thu]]"
 complete-date: 
-tags: 
+tags: "[[Sys.VCS]]" 
 fileClass: [cm]
 ---
 

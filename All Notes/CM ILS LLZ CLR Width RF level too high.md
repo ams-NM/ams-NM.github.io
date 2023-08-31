@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-system: "[[Sys.ILS]]"
-work-order:  604778
+wo:  604778
 type: CM
+status: done
 report-date: "[[2022-12-13 Tue]]"
 complete-date: "[[2022-12-14 Wed]]"
 tags:
-  - "[[Sys.ILS#LLZ]]"
+  - "[[Sys.ILS]]"
   - "[[Call-out]]"
 fileClass: [cm]
 ---

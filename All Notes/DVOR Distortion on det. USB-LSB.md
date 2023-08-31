@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-system: "[[Sys.DVOR]]"
-work-order: 587406
+wo: 587406
 type: CM
+status: done
 report-date: "[[2022-03-03 Thu]]"
 complete-date: 
 tags:
-  - "[[Sys.DVOR#DVOR]]"
+  - "[[Sys.DVOR]]"
 fileClass: [cm]
 ---
 

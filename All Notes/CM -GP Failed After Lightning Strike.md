@@ -2,6 +2,7 @@
 system: "[[Sys.AWOS]]"
 work-order:  614658
 type: CM
+status: done
 report-date: "[[2023-06-01 Thu]]"
 complete-date: 
 tags:

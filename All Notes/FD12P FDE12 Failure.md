@@ -2,7 +2,7 @@
 wo: 616717
 type: CM
 status: ongoing
-report-date: [[2023-07-04 Tue]]
+report-date: "[[2023-07-04 Tue]]"
 complete-date: 
 tags:
   - "[[Sys.AWOS]]"

@@ -5,7 +5,7 @@ wo:  598333
 type: CM
 status: pending
 report-date: "[[2022-08-23 Tue]]"
-next-step: 
+next-step: "Waiting for Health Check"
 complete-date: 
 tags:
   - "[[Sys.ILS#DME]]"

@@ -1,7 +1,7 @@
 ---
 wo:  610484
 type: CM
-status: ongoing/pending/done
+status: pending
 report-date: "[[2023-03-29 Wed]]"
 complete-date: 
 tags:

@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-system: "[[Sys.AWOS]]"
-work-order:  594749
+wo:  594749
 type: CM
+status: done
 report-date: "[[2022-06-14 Tue]]"
 complete-date: 
 tags:
-  - "[[Sys.AWOS#Barometer-PTB]]"
+  - "[[Sys.AWOS]]"
 ---
 
 # Problem 🐞

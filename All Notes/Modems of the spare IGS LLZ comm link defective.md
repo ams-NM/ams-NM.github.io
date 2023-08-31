@@ -1,8 +1,8 @@
 ---
 dg-publish: true
-system: "[[sys.IGS]]"
-work-order:  599795
+wo:  599795
 type: CM
+status: done
 report-date: "[[2022-09-14 Wed]]"
 complete-date: 
 tags:

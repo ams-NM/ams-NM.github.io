@@ -1,13 +1,14 @@
 ---
 dg-publish: true
-system: "[[Sys.AWOS]]"
 work-order:  592963
 type: CM
+status: done
 report-date: "[[2022-05-16 Mon]]"
 complete-date: 
 tags:
-  - "[[Sys.AWOS#LT31]]"
+  - "[[Sys.ILS]]"
 fileClass: [cm]
+next-step: 
 ---
 
 # Pending Issues

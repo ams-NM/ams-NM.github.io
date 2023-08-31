@@ -1,12 +1,12 @@
 ---
 dg-publish: true
-system: "[[Sys.AWOS]]"
-work-order:  598440
+wo:  598440
 type: CM
+status: done
 report-date: "[[2022-08-26 Fri]]"
 complete-date: "[[2022-08-26 Fri]]"
 tags:
-  - "[[Sys.AWOS#Wind]]"
+  - "[[Sys.AWOS]]"
   - 
 ---
 # Problem 🐞

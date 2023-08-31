@@ -3,7 +3,7 @@ dg-publish: true
 wo:  601565
 status: pending
 type: CM
-report-date: [[2022-10-18 Tue]]
+report-date: "[[2022-10-18 Tue]]"
 complete-date: 
 tags:
   - "[[Sys.ILS]]"
