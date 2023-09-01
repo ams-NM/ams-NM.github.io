@@ -1,4 +1,3 @@
-- [ ] #typhoon-standby [[typhoon-name]] staff -  xx:xx date ➡️ xx:xx date
 - [ ] #typhoon-standby 
 	- typhoon:: name
 	- staff::

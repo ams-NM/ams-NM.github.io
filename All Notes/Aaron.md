@@ -1,3 +1,4 @@
 ---
-fileClass: [people]
+tags: people
+afileClass: [people]
 ---

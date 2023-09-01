@@ -13,6 +13,8 @@ dg-publish: true
 - [[PR Records]]
 - [[Calibration Records]]
 
+- [[Typhoon Standby -Records]]
+
 - [[Routines]]
 
 - [[CTM PC Settings]]
