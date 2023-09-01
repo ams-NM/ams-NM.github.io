@@ -1,4 +1,4 @@
 ---
 dg-publish: true
-fileClass: [people]
+tags: person
 ---
