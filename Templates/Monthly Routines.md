@@ -15,8 +15,8 @@
 - [ ] [[PM.ILS.m🛬#5 -Record Internal DC Voltages]] -
 - [ ] [[PM.ILS.m🛬]],  ==Form== -
 #### [[PM.DVOR.m🧭]] ( 4 x 4 hours)
-- [ ] [[PM.DVOR.m🧭#Changeover & printouts]] -
-- [ ] [[PM.DVOR.m🧭#Site inspection]] -
+- [ ] [[PM.DVOR.m🧭#Site inspection & printout TxA]] -
+- [ ] [[PM.DVOR.m🧭#Changeover & printouts TxB]] -
 - [ ] [[PM.DVOR.m🧭#Record Internal DC Voltages]] -
 - [ ] [[PM.DVOR.m🧭]], ==Form== -
 ### TS's

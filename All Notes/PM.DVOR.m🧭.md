@@ -2,7 +2,7 @@
 dg-publish: true
 labor-hours: 16
 ---
-## Changeover & printouts
-## Site inspection
+## Changeover & printouts TxB
+## Site inspection & printout TxA
 ## Form
 ## Record Internal DC Voltages
