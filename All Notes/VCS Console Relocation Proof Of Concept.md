@@ -17,7 +17,7 @@ tags:
 ## Next Step
 ### Material to Order
 - [ ] A new VCS Console
-- [ ] 4 pcs of `16E1 PDH Fiber Multiplexer`
+- [ ] 4 pcs of `8E1 PDH Fiber Multiplexer`
 - [ ] 2 pcs of `Handset`
 - [ ] LAN Cable Patch
 	- 10MT A-to-B patch on Maximo might be useful depending on the actual distance between Console and the socket.
