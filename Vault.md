@@ -8,7 +8,7 @@ dg-publish: true
 - [[👨Team Members]]
 - [[Compensation Leave Records]]
 - [[✈️MIA Systems]]
-- [[All CWO]]
+- [[CWO Records]]
 - [[IMO Records]]
 - [[PR Records]]
 - [[Calibration Records]]
