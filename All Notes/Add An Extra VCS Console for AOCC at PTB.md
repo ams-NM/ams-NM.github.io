@@ -18,7 +18,7 @@ tags:
 - [ ] 
 ### How
 #### The Full Path
-
+![[Add An Extra VCS Console for AOCC at PTB 2023-09-21 14.44.10.excalidraw]]
 ### What
 - [[VCS Console Relocation Proof Of Concept#Material to Order]]
 ### Who
