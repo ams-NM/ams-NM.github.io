@@ -12,9 +12,10 @@ next-step: "Waiting for IMO Item"
 # Problem 🐞
 - Blocked by garbage, filter net broken.
 - IMO issued on [[2023-08-18 Fri]] 
+	- [[2023-08#^b2b348 | IMO for Rain Guage]]
 ## Preparation
 ### When
-- [ ] NOTAM ?
+- [ ] Replace [[Rain Gauge]] [[RWY34]] -[[2023-09-27 Wed]]
 ### How
 - [ ] Plan in detail
 ### What
