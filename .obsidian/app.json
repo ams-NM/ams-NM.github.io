@@ -15,5 +15,6 @@
   "defaultViewMode": "source",
   "communityThemeSortOrder": "download",
   "communityPluginSortOrder": "download",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }

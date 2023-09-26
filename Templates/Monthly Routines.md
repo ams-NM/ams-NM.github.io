@@ -24,6 +24,7 @@
 - [ ] 🛡️Workplace Safety- ISO 45001 `FCOHSP 9.1.1-03` -
 - [ ] 🛠️Ladder & Tools Check(`Odd` months) -
 ### End of Month
+- [ ] Generate Schedule for Next Month -
 - [ ] [[Review CM Status & send email📧 to boss]] -
 	- [ ] Verify [[Failure Code]] is present for every CM.
 - [ ] PM Monthly Schedule to [[AOD]]
