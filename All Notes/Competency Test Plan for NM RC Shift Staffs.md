@@ -11,12 +11,12 @@
 - [x] [[Joseph]] `VCS` test on -[[2023-07-06 Thu]]
 - [x] [[Raymond]] `VCS` test on -[[2023-07-05 Wed]]
 ## ILS -Done on
-- [ ] [[Hin]] `ILS` test on -
-- [ ] [[Joe -RC]] `ILS` test on -
-- [ ] [[Joseph]] `ILS` test on -
-- [ ] [[Raymond]] `ILS` test on -
+- [ ] [[Hin]] `ILS` test on -[[2023-09-25 Mon]], 
+- [ ] [[Joe -RC]] `ILS` test on -[[2023-09-28 Thu]]
+- [x] [[Joseph]] `ILS` test on -[[2023-09-25 Mon]], [[2023-09-26 Tue]]
+- [ ] [[Raymond]] `ILS` test on -[[2023-09-29 Fri]]
 ## DVOR -Done on
-- [ ] [[Hin]] `DVOR` test on -
+- [ ] [[Hin]] `DVOR` test on -[[2023-09-25 Mon]],
 - [ ] [[Joe -RC]] `DVOR` test on -
-- [ ] [[Joseph]] `DVOR` test on -
+- [x] [[Joseph]] `DVOR` test on -[[2023-09-25 Mon]], [[2023-09-26 Tue]]
 - [ ] [[Raymond]] `DVOR` test on -
