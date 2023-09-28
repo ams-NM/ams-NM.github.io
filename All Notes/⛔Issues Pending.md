@@ -10,9 +10,6 @@ dg-publish: true
 - [ ] [[Collect Records of AWOS System]]
 - [ ] [[中南局 Health Check Plan🚑]] 
 - [ ] [[SMG Extend Forecaster Control in PTB NE 3F]] Extend PC Control for SMG office. -
-- [ ] Replace LT31 [[RWY-MID]]  Tx, Rx & Blowers -[[2023-10-05 Thu]]
-	- Replace LTM111 & LTM211 as well.
-	- 2 Rx in GP. 1 Tx (LTM112) in ATC warehouse.
  - [ ] 3-meter coaxial cable for LLZ ground check -[[2024-04-01 Mon]]
 	 - The ones bought were unable to unplug.
 	 - Buy 2 pcs of a new model

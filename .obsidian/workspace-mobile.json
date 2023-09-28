@@ -4,32 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f94ab9baa3af2cf",
+        "id": "2009b8175bce026b",
         "type": "tabs",
         "children": [
           {
-            "id": "6e12a9fbce5ed97f",
+            "id": "4ff59e1c9c1e1a86",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monthly/2023-09.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d80cc28dccff3e8e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task-Tracking.md",
+                "file": "Weekly/2023 w39.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -38,19 +23,20 @@
             }
           },
           {
-            "id": "c4b0a53129caec93",
+            "id": "24e21c131e735df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡Home.md",
-                "mode": "source",
+                "file": "Monthly/2023-09.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,10 +92,10 @@
           "type": "backlink",
           "state": {
             "file": "Monthly/2023-09.md",
-            "collapseAll": false,
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
-            "showSearch": false,
+            "showSearch": true,
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
@@ -125,7 +111,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,11 +129,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e12a9fbce5ed97f",
+  "active": "24e21c131e735df8",
   "lastOpenFiles": [
-    "🏡Home.md",
+    "Weekly/2023 w39.md",
+    "Daily Notes/2023-09-28 Thu.md",
     "Monthly/2023-09.md",
     "Task-Tracking.md",
+    "🏡Home.md",
     "1.stignore"
   ]
 }

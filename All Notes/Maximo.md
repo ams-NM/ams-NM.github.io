@@ -44,3 +44,9 @@ Common Items:
 - F00144	SERIAL COMMUNICATION LINKS
 - F00145	COMM CABLE INFRASTRUCTURE
 ```
+### 
+Failure Class: F00009 Application Software
+Failure Code:
+- Software Problem
+- `[[Improper Operation]]`
+- No Action Needs To Be Taken
