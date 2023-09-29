@@ -22,7 +22,7 @@
 ### TS's
 - [ ] 🧹Site Cleaning (2nd Wednesday) -
 - [ ] 🛡️Workplace Safety- ISO 45001 `FCOHSP 9.1.1-03` -
-- [ ] 🛠️Ladder & Tools Check(`Odd` months) -
+- [ ] 🛠️Ladder & Tools Check `FCOHSP 9.1.1-04` (`Odd` months) -
 ### End of Month
 - [ ] Generate Schedule for Next Month -
 - [ ] [[Review CM Status & send email📧 to boss]] -

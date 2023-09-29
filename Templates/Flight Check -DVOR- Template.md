@@ -1,5 +1,6 @@
 ### ✈️Flight Check -DVOR-
 #### Pre
+- [ ] Old records printout -
 #### In-progress
 - [ ] [[✈️Flight Check#In-progress - DVOR, Forms]] -
 #### Post
