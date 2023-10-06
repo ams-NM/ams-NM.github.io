@@ -3,4 +3,5 @@
 	- staff::
 	- start::
 	- end::
-	- [[Typhoon Standby -Records]]
+	- hours:: 
+	- Ref: [[Typhoon Standby -Records]]

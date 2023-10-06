@@ -1,7 +1,16 @@
 ---
 dg-publish: true
+tags:
+  - training
+  - ATSEP
 ---
-
+```dataview
+TASK
+FROM "Monthly" or "All Notes"
+WHERE contains(tags, "#ATSEP")
+```
+---
+## 2022
 | No. | Course Code  | Level                 | Course Title                                                                                             | NM Trainees              | Day(s)) | Training Date  |
 |-----|--------------|-----------------------|----------------------------------------------------------------------------------------------------------|--------------------------|----------|----------------|
 | 1   | Q_SS-1-001   |  2 | System Safety & Safety Attitude                                                                          | Aaron, Karl, Alex  | 1        |~~[[2022-10-07 Fri]]~~      |

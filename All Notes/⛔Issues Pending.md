@@ -14,11 +14,11 @@ dg-publish: true
 	 - The ones bought were unable to unplug.
 	 - Buy 2 pcs of a new model
 	 - ref: [[2023-04#^9becdd]]
-- [ ] [[Competency Test Plan for NM RC Shift Staffs]] -[[2023-10-10 Tue]], -[[2023-10-06 Fri]]
+- [ ] [[Competency Test Plan for NM RC Shift Staffs]] -[[2023-10-10 Tue]], -[[2023-10-09 Mon]]
 ## [[Calibration Records]]
 
 ## Misc
-- [x] [[ATSEP Training Schedule - 2022]]
+- [x] [[ATSEP Training Records]]
 - [ ] [[Equipment Tree]]
 
 ## RS items to buy

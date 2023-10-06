@@ -19,4 +19,4 @@
 - [ ] [[Hin]] `DVOR` test on -[[2023-09-25 Mon]], [[2023-10-10 Tue]]
 - [x] [[Joe -RC]] `DVOR` test on -[[2023-09-29 Fri]]
 - [x] [[Joseph]] `DVOR` test on -[[2023-09-25 Mon]], [[2023-09-26 Tue]]
-- [ ] [[Raymond]] `DVOR` test on -[[2023-10-06 Fri]]
+- [ ] [[Raymond]] `DVOR` test on -[[2023-10-09 Mon]]

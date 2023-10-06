@@ -21,13 +21,32 @@ for (let i = 1; i < days_in_month + 1; i++) {
   let m_date = moment(full_date, "YYYY-MM-DD");
   let full_date_str = m_date.format("YYYY-MM-DD ddd");
   //console.log("full_date_str = " + full_date_str);
+  if (is_today(full_date)) {
+    dv.header(3, "🔽 Today 🔽")
+  }
+
   dv.table([`[[${full_date_str}]] ` + get_relative_date(full_date), "Link", "Status"], tasks
     .filter(t => t.text.includes(full_date))
     .map(t => [remove_ending_date(t), t.link, true_or_false(t.completed)]));
 
+  if (is_today(full_date)) {
+    dv.header(3, "🔼 Today 🔼")
+  }
+
 }
 
 //***** Helper Func *****//
+
+// date_str: YYYY-MM-DD
+function is_today(date_str) {
+  const date_format = 'YYYY-MM-DD';
+  let note_date = moment().format(date_str, date_format);
+  //console.log('note_date=' + note_date);
+  let today = moment().format(date_format);
+  return today == note_date;
+}
+
+
 function get_relative_date(date_str) {
   //console.log('date_str=' + date_str);
   const date_format = 'YYYY-MM-DD';
@@ -59,7 +78,6 @@ function get_relative_date(date_str) {
       } else {
         result[index++] = Math.abs(dur) + " Days Later";
       }
-
     }
   }
   //console.log('result=' + result);
